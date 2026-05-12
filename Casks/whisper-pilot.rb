@@ -16,7 +16,7 @@
 
 cask "whisper-pilot" do
   version "0.1.0"
-  sha256 "REPLACE_WITH_SHA256_FROM_BIN_RELEASE_OUTPUT"
+  sha256 "26d06e417bdc373f65e16e0089dfe012e5bdbceac7f2ab85bcc53030ef8d595b"
 
   url "https://github.com/vertocode/whisper-pilot/releases/download/v#{version}/WhisperPilot-#{version}.dmg",
       verified: "github.com/vertocode/whisper-pilot/"
