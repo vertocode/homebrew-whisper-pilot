@@ -15,8 +15,8 @@
 # or right-click the app and pick "Open" the first time.
 
 cask "whisper-pilot" do
-  version "0.1.3"
-  sha256 "3cfaba3b15f19a07f08be88124f955044f0e5527017e8db3818bf2eaf66af109"
+  version "0.1.4"
+  sha256 "4a5b7d29715ba97c954de0d70a3068b752d70622d12db09ed08247486fa632d6"
 
   url "https://github.com/vertocode/whisper-pilot/releases/download/v#{version}/WhisperPilot-#{version}.dmg",
       verified: "github.com/vertocode/whisper-pilot/"
